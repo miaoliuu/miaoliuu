@@ -49,7 +49,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/miaoliuu/count.svg) visito
 <!--
 <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.zhihu.com/people/liu-miao-28-63/"><img alt="Zhihu" src="https://img.shields.io/badge/Zhihu-liu-miao-blue?style=flat-square&logo=zhihu"></a>
 -->
+<a href="https://www.zhihu.com/people/liu-miao-28-63/"><img alt="ZhiHu" src="https://img.shields.io/badge/ZhiHu-Liu%20Miao-blue?style=flat-square&logo=zhihu"></a>
 <a href="mailto:liumiaobuct@foxmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-liumiaobuct@foxmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
