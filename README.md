@@ -36,6 +36,15 @@ My ![Visitor Count](https://profile-counter.glitch.me/miaoliuu/count.svg) visito
   ![Ansys Fluent](https://img.shields.io/badge/-CFD%20Post-333333?style=flat&logo=ansys)
   ![GIMP](https://img.shields.io/badge/-GIMP-333333?style=flat&logo=gimp)
 
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="middle">
+<a href="https://github.com/miaoliuu/"><img alt="Github" src="https://img.shields.io/badge/Github-miaoliuu-blue?style=flat-square&logo=github"></a>
+<a href="https://www.zhihu.com/people/liu-miao-28-63/"><img alt="ZhiHu" src="https://img.shields.io/badge/ZhiHu-Liu%20Miao-blue?style=flat-square&logo=zhihu"></a>
+<a href="https://www.researchgate.net/profile/Miao_Liu48/"><img alt="ResearchGate" src="https://img.shields.io/badge/ResearchGate-Liu%20Miao-blue?style=flat&logo=researchgate"></a>
+<a href="mailto:liumiaobuct@foxmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-liumiaobuct@foxmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
+
 <br/>
 
 <a href="https://github.com/miaoliuu">
@@ -44,14 +53,3 @@ My ![Visitor Count](https://profile-counter.glitch.me/miaoliuu/count.svg) visito
 </a>
 
 <br/>
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-<!--
-<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
--->
-<a href="mailto:liumiaobuct@foxmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-liumiaobuct@foxmail.com-blue?style=flat-square&logo=gmail"></a>
-<a href="https://www.linkedin.com/in/AVS1508/"><img alt="ResearchGate" src="https://img.shields.io/badge/ResearchGate-Liu%20Miao-blue?style=flat&logo=researchgate"></a>
-<a href="https://www.zhihu.com/people/liu-miao-28-63/"><img alt="ZhiHu" src="https://img.shields.io/badge/ZhiHu-Liu%20Miao-blue?style=flat-square&logo=zhihu"></a>
-</p>
