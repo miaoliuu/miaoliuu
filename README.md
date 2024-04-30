@@ -39,7 +39,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/miaoliuu/count.svg) visito
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="middle">
-<a href="https://github.com/miaoliuu/"><img alt="Github" src="https://img.shields.io/badge/Github-miaoliuu-blue?style=flat-square&logo=github"></a>
+<a href="https://github.com/miaoliuu/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-miaoliuu-blue?style=flat-square&logo=github"></a>
 <a href="https://www.zhihu.com/people/liu-miao-28-63/"><img alt="ZhiHu" src="https://img.shields.io/badge/ZhiHu-Liu%20Miao-blue?style=flat-square&logo=zhihu"></a>
 <a href="https://www.researchgate.net/profile/Miao_Liu48/"><img alt="ResearchGate" src="https://img.shields.io/badge/ResearchGate-Liu%20Miao-blue?style=flat&logo=researchgate"></a>
 <a href="mailto:liumiaobuct@foxmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-liumiaobuct@foxmail.com-blue?style=flat-square&logo=gmail"></a>
