@@ -11,9 +11,8 @@ My ![Visitor Count](https://profile-counter.glitch.me/miaoliuu/count.svg) visito
 - 🏫 &nbsp; I’m currently studying in **Beijing University of Chemical Technology**
 - 👨‍🎓 &nbsp; I’m currently researching in **Micro-Fluidized Bed**
 - 🏙️ &nbsp; Currently working in **Beijing, China**
-- 🤔 &nbsp; I love **Reading, Cate**
+- 😄 &nbsp; I love **Reading, Cate**
 - 💬 &nbsp; Ask me about **Microfluidices**, **CFD**, **Python** and **my projects**
-- 😄 &nbsp; You may like <!--[My Website](https://www.christmas.wang/), --> 📎[My Blog](https://www.zhihu.com/people/liu-miao-28-63)
 - ⚡ &nbsp; Fun fact: 🏸**Badminton**, 🎮**video games**
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -48,8 +47,8 @@ My ![Visitor Count](https://profile-counter.glitch.me/miaoliuu/count.svg) visito
 <p align="center">
 <!--
 <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
 -->
-<a href="https://www.zhihu.com/people/liu-miao-28-63/"><img alt="ZhiHu" src="https://img.shields.io/badge/ZhiHu-Liu%20Miao-blue?style=flat-square&logo=zhihu"></a>
 <a href="mailto:liumiaobuct@foxmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-liumiaobuct@foxmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/AVS1508/"><img alt="ResearchGate" src="https://img.shields.io/badge/ResearchGate-Liu%20Miao-blue?style=flat&logo=researchgate"></a>
+<a href="https://www.zhihu.com/people/liu-miao-28-63/"><img alt="ZhiHu" src="https://img.shields.io/badge/ZhiHu-Liu%20Miao-blue?style=flat-square&logo=zhihu"></a>
 </p>
