@@ -13,7 +13,6 @@ My ![Visitor Count](https://profile-counter.glitch.me/miaoliuu/count.svg) visito
 - 🏙️ &nbsp; Currently working in **Beijing, China**
 - 🤔 &nbsp; I love **Reading, Cate**
 - 💬 &nbsp; Ask me about **Microfluidices**, **CFD**, **Python** and **my projects**
-- 📫 &nbsp; How to reach me: **liumiaobuct@foxmail.com**
 - 😄 &nbsp; You may like <!--[My Website](https://www.christmas.wang/), --> 📎[My Blog](https://www.zhihu.com/people/liu-miao-28-63)
 - ⚡ &nbsp; Fun fact: 🏸**Badminton**, 🎮**video games**
 
@@ -51,7 +50,8 @@ My ![Visitor Count](https://profile-counter.glitch.me/miaoliuu/count.svg) visito
 <!--
 <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
+
+<a href="https://www.zhihu.com/people/liu-miao-28-63/"><img alt="Zhihu" src="https://img.shields.io/badge/Zhihu-liu-miao-blue?style=flat-square&logo=zhihu"></a>
 -->
 <a href="mailto:liumiaobuct@foxmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-liumiaobuct@foxmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
