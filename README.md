@@ -19,9 +19,10 @@ My ![Visitor Count](https://profile-counter.glitch.me/miaoliuu/count.svg) visito
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Octave](https://img.shields.io/badge/-Octave-333333?style=flat&logo=octave)
+  ![Matlib](https://img.shields.io/badge/-Matlib-333333?style=flat&logo=Matlib&logoColor=276DC3)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=yellow)
   ![Fortran](https://img.shields.io/badge/-Fortran-333333?style=flat&logo=Fortran&logoColor=lightgray)
-  ![Matlib](https://img.shields.io/badge/-Matlib-333333?style=flat&logo=M&logoColor=276DC3)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
