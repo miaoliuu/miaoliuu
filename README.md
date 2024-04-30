@@ -32,6 +32,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/miaoliuu/count.svg) visito
   ![Code::blocks](https://img.shields.io/badge/-Code%3A%3Ablocks-333333?style=flat&logo=codeblocks)
 - 🖥 &nbsp;
   ![Ansys Fluent](https://img.shields.io/badge/-Ansys%20Fluent-333333?style=flat&logo=ansys)
+  ![GIMP](https://img.shields.io/badge/-GIMP-333333?style=flat&logo=gimp)
 
 <br/>
 
