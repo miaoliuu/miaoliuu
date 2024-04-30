@@ -29,6 +29,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/miaoliuu/count.svg) visito
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Code::blocks](https://img.shields.io/badge/-Code%3A%3Ablocks-333333?style=flat&logo=codeblocks)
 - 🖥 &nbsp;
   ![Ansys Fluent](https://img.shields.io/badge/-Ansys%20Fluent-333333?style=flat&logo=ansys)
 
