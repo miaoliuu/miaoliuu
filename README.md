@@ -19,8 +19,8 @@ My ![Visitor Count](https://profile-counter.glitch.me/miaoliuu/count.svg) visito
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![Fortran](https://img.shields.io/badge/-Fortran-333333?style=flat&logo=Fortran&logoColor=00599C)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=yellow)
+  ![Fortran](https://img.shields.io/badge/-Fortran-333333?style=flat&logo=Fortran&logoColor=lightgray)
   ![Matlib](https://img.shields.io/badge/-Matlib-333333?style=flat&logo=M&logoColor=276DC3)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -30,7 +30,9 @@ My ![Visitor Count](https://profile-counter.glitch.me/miaoliuu/count.svg) visito
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Code::blocks](https://img.shields.io/badge/-Code%3A%3Ablocks-333333?style=flat&logo=codeblocks)
 - 🖥 &nbsp;
-  ![Ansys Fluent](https://img.shields.io/badge/-Ansys%20Fluent-333333?style=flat&logo=ansys)
+  ![Ansys ICEM CFD](https://img.shields.io/badge/-ICEM%20CFD-333333?style=flat&logo=ansys)
+  ![Ansys Fluent](https://img.shields.io/badge/-Fluent-333333?style=flat&logo=ansys)
+  ![Ansys Fluent](https://img.shields.io/badge/-CFD%20Post-333333?style=flat&logo=ansys)
   ![GIMP](https://img.shields.io/badge/-GIMP-333333?style=flat&logo=gimp)
 
 <br/>
