@@ -49,7 +49,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/miaoliuu/count.svg) visito
 
 <a href="https://github.com/miaoliuu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miaoliuu&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miaoliu&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miaoliuu&theme=buefy&layout=compact" />
 </a>
 
 <br/>
