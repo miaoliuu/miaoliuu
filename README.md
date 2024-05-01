@@ -8,10 +8,10 @@ My ![Visitor Count](https://profile-counter.glitch.me/miaoliuu/count.svg) visito
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🏫 &nbsp; I’m currently studying in **Beijing University of Chemical Technology**
-- 👨‍🎓 &nbsp; I’m currently researching in **Micro-Fluidized Bed Reactor**
+- 🏫 &nbsp; I’m currently studying at the **Beijing University of Chemical Technology**
+- 👨‍🎓 &nbsp; I’m currently researching on **Micro-Fluidized Bed Reactor**
 - 🏙️ &nbsp; Currently working in **Beijing, China**
-- 😄 &nbsp; I love **Reading** and **Tasting delicacies**.
+- 😄 &nbsp; I love **Reading** and **Tasting delicacies**
 - 💬 &nbsp; Ask me about **Microfluidices**, **CFD**, **Python** and **my projects**
 - ⚡ &nbsp; Fun fact: 🏸**Badminton**, 🎮**video games**
 
